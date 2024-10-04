@@ -1,0 +1,1 @@
+This file is needed so that the folder Output stay in the git, so that it's possible to run the app with local storage
